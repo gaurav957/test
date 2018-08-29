@@ -1,0 +1,10 @@
+1. Enter folder
+2. ls- for checking file systems
+3. git config --global user.name "gaurav957"
+4. git config --global user.email "gaurav957"
+5. get clone https://github.com/gaurav957/test.git
+6. go inside that folder
+7. git status :- to check git status
+8. git add test.txt
+9. git commit -m "Any comment you want" test.txt
+10. git push -u origin master
